@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bem Vindo(a) ao site do Teletrabalho!
 
-You can use the [editor on GitHub](https://github.com/vbmelo/teletrabalho/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Criamos esse site com o intuito de ajudar todos aqueles, que devido a situação atual do mundo, precisaram migrar para o Teletrabalho!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sinta-se em casa, estamos aqui para tirar todas as dúvidas e tornar seu dia mais produtivo!
 
 ### Markdown
 
